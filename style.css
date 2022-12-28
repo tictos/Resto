@@ -237,7 +237,7 @@ section {
 
 
 .temoignage{
-    background-image: url(/images/bg2.jpg);
+    background-image: url(./images/bg2.jpg);
     background-size: cover;
 }
 .temoignage .contenuu{
@@ -297,7 +297,7 @@ section {
     color: #fff;
 }
 .contact{
-    background-image: url(/images/img-form.jpg);
+    background-image: url(./images/img-form.jpg);
     background-size: cover;
     box-shadow: 2px 2px 12px rgba(0, 0, 0, 0.8);
     width: 100%;
